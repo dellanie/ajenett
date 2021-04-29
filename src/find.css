@@ -1,0 +1,32 @@
+.find{
+    
+    border-bottom: 1px whitesmoke;    
+}
+
+
+.find_left{   
+    
+    align-items: center;
+    border-radius: 5px;
+    padding-top: 0px;
+    
+}
+
+.input{
+    padding: 10px;
+}
+
+.find_search{
+    padding: 10px;
+}
+
+.find_display{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    background-color: whitesmoke;
+    padding: 20px;
+    height: 100vh;
+    box-shadow: 0px 5px 7px 0px rgba(0,0,0,0.24);
+}
+
